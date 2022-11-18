@@ -23,5 +23,6 @@ Data:17/11/2022
 Arquivo: 
 Curso Lógica de Programação - 01.py
 Curso Lógica de Programação - 02.py
+Curso Lógica de Programação - 03.py
 
 //====================//
