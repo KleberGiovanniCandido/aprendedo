@@ -19,10 +19,16 @@ README.txt
 
 Nome do Curso: Curso Lógica de Programação Completo 2021 [Iniciantes] + Desafios + Muita prática
 Link YouTube: https://www.youtube.com/watch?v=iF2MdbrTiBM
-Data:17/11/2022
-Arquivo: 
+Datas:
+17/11/2022
+18/11/2022
+19/11/2022
+
+Arquivos: 
 Curso Lógica de Programação - 01.py
 Curso Lógica de Programação - 02.py
 Curso Lógica de Programação - 03.py
+Curso Lógica de Programação - 04.py
+Curso Lógica de Programação - 05.py
 
 //====================//
