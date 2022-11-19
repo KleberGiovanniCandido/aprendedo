@@ -4,6 +4,16 @@
 
 import random
 
-aleatorio = random.randint(1, 10)
+numero_aleatorio = random.randint(1, 10)
 
+acertou = False
 
+while acertou == False:
+    chute = int(input("Digite um número entre 1 e 10: "))
+    if chute > numero_aleatorio:
+        print("O número é menor")
+    if chute < numero_aleatorio:
+        print("O numero é maior")
+    elif chute == numero_aleatorio:
+        acertou = True
+        print("Você acertou!!! Parábens!!")
