@@ -1,4 +1,4 @@
-#Some os valores de uma lista, uma coleção de dados "idades",[15, 46, 75, 34, 23] imprima na tela a soma destes valores
+# Some os valores de uma lista, uma coleção de dados "idades",[15, 46, 75, 34, 23] imprima na tela a soma destes valores
 
 idades = [15, 46, 75, 34, 23]
 total = 0
