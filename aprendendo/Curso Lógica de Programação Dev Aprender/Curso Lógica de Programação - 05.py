@@ -17,3 +17,4 @@ while acertou == False:
     elif chute == numero_aleatorio:
         acertou = True
         print("Você acertou!!! Parábens!!")
+-
