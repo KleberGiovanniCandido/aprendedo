@@ -8,6 +8,13 @@ Arquivo:
 
 //====================//
 
+Nome do Curso: Curso de Git e Github COMPLETO 2021 [Iniciantes] + Desafios + Muita Prática
+Link YouTube: https://www.youtube.com/watch?v=kB5e-gTAl_s 
+Arquivo: 
+README.txt
+
+//====================//
+
 Nome do Curso: Curso de Lógica de Programação Curso em Vídeo
 Link YouTube: https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV
 Arquivos:
@@ -19,13 +26,6 @@ Arquivos:
 06 MEDIAS.ALG
 07 FUNCOES_ARTMETICAS.ALG
 08 CONVERSOR_SENO
-
-//====================//
-
-Nome do Curso: Curso de Git e Github COMPLETO 2021 [Iniciantes] + Desafios + Muita Prática
-Link YouTube: https://www.youtube.com/watch?v=kB5e-gTAl_s 
-Arquivo: 
-README.txt
 
 //====================//
 
