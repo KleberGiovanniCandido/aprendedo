@@ -5,7 +5,7 @@ print("Olá usuário, qual é o seu nome?")
 nome = input()
 
 print("Muito bem", nome,"diga agora, qual é o seu salário? ")
-salario = (input())
+salario = int(input())
 
 print("Entendi", nome,"me fale quantas horas vc trabalha por dia? ")
 horas = int(input())
@@ -16,7 +16,7 @@ dias = int(input())
 hora_semana = horas * dias
 dias_mes = dias * 4
 hora_mes = horas * dias_mes
-valor_por_hora = float(hora_semana / dias)
+valor_por_hora = (hora_semana / dias)
 
 
 
