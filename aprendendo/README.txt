@@ -15,7 +15,7 @@ README.txt
 
 //====================//
 
-Nome do Curso: Curso de Lógica de Programação Curso em Vídeo
+Nome do Curso: Curso de Lógica de Programação Curso em Vídeo - Visualg
 Link YouTube: https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV
 Arquivos:
 01 PRIMEIRO.ALG
@@ -26,10 +26,24 @@ Arquivos:
 06 MEDIAS.ALG
 07 FUNCOES_ARTMETICAS.ALG
 08 CONVERSOR_SENO
+09 OPERADORES RELACIONAIS.ALG
+10 OOPERADORES RELACIONAIS.ALG
+11 OPERADORES RELACIONAIS.ALG
+12 OPERADORES RELACIONAIS.ALG
+13 OPERADORES RELACIONAIS.ALG
+14 OPERADORES RELACIONAIS.ALG
+15 OPERADORES RELACIONAIS.ALG
+16 OPERADORES RELACIONAIS.ALG
+17 OPERADORES RELACIONAIS.ALG
+18 OPERADORES LOGICOS.ALG
+19 OPERADORES LOGICOS.ALG
+20 OPERADORES LOGICOS.ALG
+
+parei na aula 4, minuto 16, ordem de precedencia
 
 //====================//
 
-Nome do Curso: Curso Lógica de Programação Completo 2021 [Iniciantes] + Desafios + Muita prática
+Nome do Curso: Curso Lógica de Programação Completo 2021 [Iniciantes] + Desafios + Muita prática - Python
 Link YouTube: https://www.youtube.com/watch?v=iF2MdbrTiBM
 
 Arquivos: 
